@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-09T18:21:29 IST" name="LoginWebApplicationSuite" finished-at="2026-07-09T18:21:33 IST" duration-ms="3222">
+    <groups>
+    </groups>
+    <test started-at="2026-07-09T18:21:29 IST" name="LoginWebApplicationTests" finished-at="2026-07-09T18:21:33 IST" duration-ms="3222">
+      <class name="tests.LoginWebApplication">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.LoginWebApplication@313ac989]" started-at="2026-07-09T18:21:30 IST" name="setUp" finished-at="2026-07-09T18:21:32 IST" duration-ms="2428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidLogin()[pri:0, instance:tests.LoginWebApplication@313ac989]" started-at="2026-07-09T18:21:32 IST" name="testValidLogin" finished-at="2026-07-09T18:21:32 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidLogin -->
+        <test-method is-config="true" signature="teatDown()[pri:0, instance:tests.LoginWebApplication@313ac989]" started-at="2026-07-09T18:21:32 IST" name="teatDown" finished-at="2026-07-09T18:21:33 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teatDown -->
+      </class> <!-- tests.LoginWebApplication -->
+    </test> <!-- LoginWebApplicationTests -->
+  </suite> <!-- LoginWebApplicationSuite -->
+</testng-results>
