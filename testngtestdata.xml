@@ -1,0 +1,9 @@
+<suite name="LoginWebApplicationSuite">
+    <test name="LoginWebApplicationTests">
+        <classes>
+        <Paramete name="username" value="username1" />
+        <Paramete name="password" value="password1" />
+            <class name="tests.LoginWebApplication"/>
+        </classes>
+    </test>
+</suite>
